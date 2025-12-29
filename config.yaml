@@ -1,2 +1,1 @@
-path: "parkinson_model.joblib"
-features: ['MDVP:APQ', 'MDVP:Shimmer(dB)']
+
